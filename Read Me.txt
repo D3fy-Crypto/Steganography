@@ -1,0 +1,29 @@
+Respected mam
+
+The Code for the Project is a bit a stress test for the cpu So it might take Some Time to run the Code in matlab, 
+So please have patience madam,By any chance if this code did'nt run, These are the add ons which are given below I have in my matlab Software
+So if any required please download the add ons and run the code
+
+"Wavelet Toolbox"                            "5.2"       true         "WA"   
+    "Data Acquisition Toolbox"                   "4.0"       true         "DA"   
+    "Communications Toolbox"                     "7.1"       true         "CM"   
+    "Mixed-Signal Blockset"                      "1.0"       true         "AM"   
+    "Simulink"                                   "9.3"       true         "SL"   
+    "Simulink Control Design"                    "5.3"       true         "SD"   
+    "DSP System Toolbox"                         "9.8"       true         "DS"   
+    "Control System Toolbox"                     "10.6"      true         "CT"   
+    "Signal Processing Toolbox"                  "8.2"       true         "SG"   
+    "Image Processing Toolbox"                   "10.4"      true         "IP"   
+    "MATLAB Coder"                               "4.2"       true         "ME"   
+    "Embedded Coder"                             "7.2"       true         "EC"   
+    "Simscape"                                   "4.6"       true         "SS"   
+    "Optimization Toolbox"                       "8.3"       true         "OP"   
+    "Statistics and Machine Learning Toolbox"    "11.5"      true         "ST"   
+    "Instrument Control Toolbox"                 "4.0"       true         "IC"   
+    "Symbolic Math Toolbox"                      "8.3"       true         "SM"   
+    "5G Toolbox"                                 "1.1"       true         "5G"   
+    "MATLAB Compiler SDK"                        "6.6.1"     true         "MJ"   
+    "MATLAB Compiler"                            "7.0.1"     true         "CO"   
+    "Parallel Computing Toolbox"                 "7.0"       true         "DM"   
+
+Thanking You
